@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PDF-Viewer-Android-Studio</string>
+    <string name="no_document_found">No document found.</string>
+    <string name="unable_to_open_stream">Unable to open input stream</string>
+    <string name="error_loading_document">Error loading document.</string>
+    <string name="error_message">Error: %1$s</string>
+    <string name="open_pdf">Open PDF</string>
+    <string name="open_doc">Open DOC</string>
+
+
+</resources>
